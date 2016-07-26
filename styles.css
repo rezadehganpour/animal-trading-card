@@ -34,9 +34,7 @@ body{
   margin-right: 5px;
   margin-left: 5px;
   border-radius: 5px;
-  background-image: url("shiba.png");
-  background-repeat: no-repeat;
-  background-size: 300px 600px;
+  opacity: 0.5;
 }
 .the-card{
   width: 300px;
