@@ -1,5 +1,11 @@
 /* add your CSS here */
-
+body{
+  width: 330px;
+  border: 2px solid lightgrey;
+  padding-bottom: 5px;
+  box-shadow: 10px 10px 5px #D8E2E6;
+  font-family: 'Indie Flower', sans-serif;
+}
 .animal-image {
   width: 300px;
   margin-bottom: 2px;
@@ -8,31 +14,19 @@
   font-style: italic;
 }
 
-.banner{
-  background-color: #FAAD5A;
-}
-
 h3{
-  margin: 0.5em 0px 0.5em 0px;
+  background-color: #FAAD5A;
+  margin: 0.5em -0.5em;
   padding-left: 20px;
   color: white;
   font-size: 30px;
   font-weight: bold;
 }
 
-body{
-  width: 330px;
-  border: 2px solid lightgrey;
-  padding-bottom: 5px;
-  box-shadow: 10px 10px 5px #D8E2E6;
-  font-family: 'Indie Flower', sans-serif;
-}
 .inside-box{
   border: 2px solid lightgrey;
   padding: 5px 10px;
-  margin: 7px;
-  margin-right: 5px;
-  margin-left: 5px;
+  margin: 7px 1px;
   border-radius: 5px;
   opacity: 0.5;
 }
