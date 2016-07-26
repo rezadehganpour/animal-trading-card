@@ -1,0 +1,53 @@
+/* add your CSS here */
+
+.animal-image {
+  width: 300px;
+  margin-bottom: 2px;
+}
+.fact{
+  font-style: italic;
+}
+
+.banner{
+  background-color: #FAAD5A;
+}
+
+h3{
+  margin: 0.5em 0px 0.5em 0px;
+  padding-left: 20px;
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+body{
+  width: 330px;
+  border: 2px solid lightgrey;
+  padding-bottom: 5px;
+  box-shadow: 10px 10px 5px #D8E2E6;
+  font-family: 'Indie Flower', sans-serif;
+}
+.inside-box{
+  border: 2px solid lightgrey;
+  padding: 5px 10px;
+  margin: 7px;
+  margin-right: 5px;
+  margin-left: 5px;
+  border-radius: 5px;
+  background-image: url("shiba.png");
+  background-repeat: no-repeat;
+  background-size: 300px 600px;
+}
+.the-card{
+  width: 300px;
+  margin: auto;
+}
+
+ul{
+  list-style: none;
+  padding: 0;
+}
+
+.item-tag{
+  font-weight: bold;
+}
